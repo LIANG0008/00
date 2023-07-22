@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "js豆豆",
-            "name": "微信公众号【强身健体】关注防失联",
+            "name": "老王看电视",
             "type": 3,
             "api": "http://xhww.fun:63/js/drpy1.min.js",
             "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
